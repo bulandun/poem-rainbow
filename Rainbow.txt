@@ -3,6 +3,7 @@ red
 blue
 purple
 Green
+gold
 indigo
 orange
 unicorn
