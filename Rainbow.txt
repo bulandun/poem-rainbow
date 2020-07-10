@@ -1,4 +1,5 @@
 rainbow
+ponies
 red
 blue
 purple
@@ -6,4 +7,4 @@ Green
 orange
 unicorn
 yellow
-This is a rainbow and a unicorn
+This is a rainbow, unicorn and ponies
