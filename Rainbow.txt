@@ -2,5 +2,6 @@ rainbow
 red
 blue
 purple
+Green
 yellow
 This is a rainbow
