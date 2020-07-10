@@ -4,5 +4,6 @@ blue
 purple
 Green
 orange
+unicorn
 yellow
-This is a rainbow
+This is a rainbow and a unicorn
